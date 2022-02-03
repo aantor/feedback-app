@@ -1,0 +1,44 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "This is feedback item 2"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback item 3"
+    },
+    {
+      "id": 4,
+      "rating": 9,
+      "text": "This is feedback item 4"
+    },
+    {
+      "id": 5,
+      "rating": 7,
+      "text": "This is feedback item 5"
+    },
+    {
+      "id": 6,
+      "rating": 6,
+      "text": "This is feedback item 6"
+    },
+    {
+      "id": 7,
+      "rating": 4,
+      "text": "This is feedback item 7"
+    },
+    {
+      "text": "Lorem ipsum dolor",
+      "rating": 8,
+      "id": 8
+    }
+  ]
+}
