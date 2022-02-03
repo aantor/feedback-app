@@ -1,5 +1,6 @@
 # Go live https://tender-villani-7fb3d5.netlify.app/
-![preview] (https://prnt.sc/26nrxxe)
+![alt text](https://github.com/aantor/feedback-app/blob/main/Screenshot%202022-02-03%20145420.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
